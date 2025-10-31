@@ -1,32 +1,31 @@
-# Olá! Eu sou Airton 👋
+# Hello there 👋
 
-### ☁️ Analista de Dados & Cloud Computing (Transição de Carreira)
+### ☁️ Cloud Computing Specialist & Data Analyst (Career Transition)
 
-Profissional em transição, combinando a formação em **Análise e Desenvolvimento de Sistemas** com especialização em **Data Analytics** e **Cloud Computing (AWS)**. Busco minha primeira oportunidade para aplicar conhecimentos técnicos em soluções de dados escaláveis e eficientes.
-
----
-
-### 🎯 Foco e Objetivo
-
-Busco atuar como **Analista de Dados** ou **Analista de Cloud/DataOps**.
-
-Meu aprendizado é focado em preparar-me para a **Certificação AWS Cloud Practitioner** e aprofundar em análise com o curso **Análise de Dados Impressionador (Hashtag)**.
+A professional transitioning careers, I combine a strong foundation in **Systems Analysis and Development** with deep specialization in **Cloud Computing (AWS)** and **Data Analytics**. I am focused on leveraging cloud infrastructure to build scalable, resilient, and cost-optimized data solutions.
 
 ---
 
-### 🛠️ Minhas Competências Chave
+### 🎯 Focus and Goal
 
-Conhecimentos aplicados em projetos de automação, análise exploratória e visualização.
+I am primarily pursuing roles as a **Cloud Analyst/Engineer** or **Cloud-focused DataOps Analyst**.
 
-| Área | Tecnologias e Habilidades |
+My learning path is highly focused on **Cloud Computing**, including preparation for the **AWS Cloud Practitioner Certification** and extensive hands-on experience with core AWS services and Infrastructure as Code (IaC).
+
+---
+
+### 🛠️ My Core Competencies
+
+Applied knowledge in building cloud infrastructure, automating processes, and performing data analysis.
+
+| Area | Technologies and Skills |
 | :--- | :--- |
-| **Data & Analytics** | **Python**, **SQL**, **Power BI**, **Excel**, Análise Exploratória, Visualização de Dados, Machine Learning. |
-| **Cloud (AWS) & IaC** | **AWS Cloud** (EC2, S3, Lambda, RDS), **IAM**, **CloudFormation**, **Terraform**, Segurança na Nuvem, Monitoramento. |
-| **Soft Skills** | Problem Solving, Aprendizado Contínuo, Proatividade, Comunicação Eficaz, Metodologias Ágeis. |
+| **Cloud (AWS) & IaC** | **AWS Cloud** (EC2, S3, Lambda, RDS), **IAM**, **CloudFormation**, **Terraform**, Cloud Security, Monitoring, Cost Optimization, DevOps, CI/CD, Resiliency. |
+| **Data & Analytics** | **Python**, **SQL**, **Power BI**, **Excel**, Exploratory Analysis, Data Visualization, Machine Learning. |
+| **Soft Skills** | Problem Solving, Continuous Learning, Proactivity, Effective Communication, Agile Methodologies. |
 
 ---
 
-### 🤝 Conecte-se Comigo
+### 🤝 Connect With Me
 
-* **LinkedIn:** [Seu Link do LinkedIn Aqui]
-* **Portfólio/E-mail:** [Seu Link de Portfólio ou E-mail Aqui]
+* **LinkedIn:** [www.linkedin.com/in/airtonguedes0902]
