@@ -1,53 +1,32 @@
-# Olá! Eu sou [Seu Nome Aqui] 👋
+# Olá! Eu sou Airton 👋
 
-### 📊 Estudante de Análise e Desenvolvimento de Sistemas em Transição para Análise de Dados & Cloud Computing
+### ☁️ Analista de Dados & Cloud Computing (Transição de Carreira)
 
-Sou um profissional em transição de carreira, combinando uma sólida base em **Análise e Desenvolvimento de Sistemas** com uma especialização robusta em **Data Analytics** e **Cloud Computing**. Meu objetivo é aplicar conhecimentos técnicos para extrair *insights* valiosos e construir soluções de dados eficientes e escaláveis na nuvem.
-
----
-
-### 🚀 Objetivo Profissional
-
-Busco minha primeira oportunidade na área de TI, idealmente como **Analista de Dados** ou **Analista de Cloud (Cloud/DataOps)**. Estou pronto para aplicar meus conhecimentos em projetos desafiadores, desenvolver habilidades práticas e contribuir ativamente para soluções que gerem *insights* acionáveis e otimizem a eficiência do negócio.
+Profissional em transição, combinando a formação em **Análise e Desenvolvimento de Sistemas** com especialização em **Data Analytics** e **Cloud Computing (AWS)**. Busco minha primeira oportunidade para aplicar conhecimentos técnicos em soluções de dados escaláveis e eficientes.
 
 ---
 
-### 🎓 Formação e Desenvolvimento Contínuo
+### 🎯 Foco e Objetivo
 
-Minha jornada de aprendizado é focada em habilidades de ponta e certificações:
+Busco atuar como **Analista de Dados** ou **Analista de Cloud/DataOps**.
 
-* **Curso Superior:** Análise e Desenvolvimento de Sistemas.
-* **Data Analytics:** Formação complementar no Senac, CNseg e Resilia.
-* **Análise de Dados:** Cursando o programa "Análise de Dados Impressionador" (Hashtag).
-* **Cloud Computing:** Estudando pela Escola da Nuvem, com foco na certificação **AWS Cloud Practitioner**.
+Meu aprendizado é focado em preparar-me para a **Certificação AWS Cloud Practitioner** e aprofundar em análise com o curso **Análise de Dados Impressionador (Hashtag)**.
 
 ---
 
-### 🛠️ Minhas Habilidades Técnicas
+### 🛠️ Minhas Competências Chave
 
-Possuo conhecimentos aplicados em projetos voltados à análise exploratória, automação de processos e visualização de dados, com um forte foco em infraestrutura como código (IaC) e a nuvem AWS.
+Conhecimentos aplicados em projetos de automação, análise exploratória e visualização.
 
-| Categoria | Habilidades Principais |
+| Área | Tecnologias e Habilidades |
 | :--- | :--- |
-| **Linguagens e Ferramentas** | **Python** (Jupyter Notebook), **SQL**, **Power BI**, **Excel** |
-| **AWS Cloud & DevOps** | **AWS Cloud** (Cloud Practitioner), **AWS EC2**, **AWS S3**, **IAM**, **RDS**, **AWS Lambda**, **CloudFormation**, **Terraform**, **DevOps**, **CI/CD** |
-| **Data & Analytics** | **Análise de Dados**, **Visualização de Dados**, **Machine Learning**, **Big Data**, **DynamoDB**, **Redshift**, **Data Insights** |
-| **CloudOps** | **Monitoramento de Sistemas** (CloudWatch), **Segurança na Nuvem**, **Cost Optimization**, **Resiliência** |
+| **Data & Analytics** | **Python**, **SQL**, **Power BI**, **Excel**, Análise Exploratória, Visualização de Dados, Machine Learning. |
+| **Cloud (AWS) & IaC** | **AWS Cloud** (EC2, S3, Lambda, RDS), **IAM**, **CloudFormation**, **Terraform**, Segurança na Nuvem, Monitoramento. |
+| **Soft Skills** | Problem Solving, Aprendizado Contínuo, Proatividade, Comunicação Eficaz, Metodologias Ágeis. |
 
 ---
 
-### soft skills
-
-Minhas experiências me equiparam com habilidades essenciais para um ambiente de TI dinâmico:
-
-* **Comunicação Eficaz** e **Colaboração em Equipe**
-* **Problem Solving** (Resolução de Problemas) e **Pensamento Crítico**
-* **Aprendizado Contínuo** e facilidade em assimilar novas tecnologias
-* **Proatividade** e aplicação de **Metodologias Ágeis**
-
----
-
-### 📧 Conecte-se Comigo
+### 🤝 Conecte-se Comigo
 
 * **LinkedIn:** [Seu Link do LinkedIn Aqui]
-* **Portfólio/Outro Contato:** [Seu Link de Portfólio ou E-mail Aqui]
+* **Portfólio/E-mail:** [Seu Link de Portfólio ou E-mail Aqui]
