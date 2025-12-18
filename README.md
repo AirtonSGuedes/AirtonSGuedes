@@ -5,6 +5,37 @@
 A professional transitioning careers, I combine a strong foundation in **Systems Analysis and Development** with deep specialization in **Cloud Computing (AWS)** and **Data Analytics**. I am focused on leveraging cloud infrastructure to build scalable, resilient, and cost-optimized data solutions.
 
 ---
+# Olá! 👋
+
+### ☁️ Especialista em Cloud Computing & Analista de Dados (Transição de Carreira)
+
+Profissional em transição de carreira, com sólida base em **Análise e Desenvolvimento de Sistemas**, aliado à especialização em **Cloud Computing (AWS)** e **Análise de Dados**. Tenho foco em utilizar infraestrutura em nuvem para construir soluções de dados **escaláveis, resilientes e otimizadas em custos**.
+
+---
+
+### 🎯 Foco e Objetivo
+
+Busco oportunidades principalmente como **Analista/Engenheiro de Cloud** ou **Analista de DataOps com foco em Cloud**.
+
+Minha trilha de aprendizado é altamente direcionada para **Cloud Computing**, incluindo preparação para a **certificação AWS Cloud Practitioner** e ampla prática hands-on com os principais serviços da AWS e **Infraestrutura como Código (IaC)**.
+
+---
+
+### 🛠️ Principais Competências
+
+Conhecimento aplicado na construção de infraestrutura em nuvem, automação de processos e análise de dados.
+
+| Área | Tecnologias e Habilidades |
+| :--- | :--- |
+| **Cloud (AWS) & IaC** | **AWS** (EC2, S3, Lambda, RDS), **IAM**, **CloudFormation**, **Terraform**, Segurança em Nuvem, Monitoramento, Otimização de Custos, DevOps, CI/CD e Resiliência. |
+| **Dados & Analytics** | **Python**, **SQL**, **Power BI**, **Excel**, Análise Exploratória, Visualização de Dados, Machine Learning. |
+| **Soft Skills** | Resolução de Problemas, Aprendizado Contínuo, Proatividade, Comunicação Eficaz, Metodologias Ágeis. |
+
+---
+
+### 🤝 Conecte-se comigo
+
+* **LinkedIn:** https://www.linkedin.com/in/airtonguedes0902
 
 ### 🎯 Focus and Goal
 
